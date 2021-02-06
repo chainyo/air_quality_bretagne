@@ -20,3 +20,7 @@ Pour pouvoir interargir avec les graphiques interactifs, il faut télécharger l
 - `ind_bretagne_agglo.csv`
 
 Ce fichier csv contient toutes les données qui ont été exploitées lors de cette étude.
+
+#### Librairies nécessaires
+
+`pip install -r requirements.txt`

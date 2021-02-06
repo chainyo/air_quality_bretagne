@@ -14,7 +14,8 @@ Ce fichier python contient le dataframe principal, avec toutes les étapes de tr
 
 - `rapport.ipynb`
 
-Ce Notebook constitue le rapport après analyse des différentes données et graphiques constitués.
+Ce Notebook constitue le rapport après analyse des différentes données et graphiques constitués.   
+Pour pouvoir interargir avec les graphiques interactifs, il faut télécharger le notebook. En effet, ils est impossible d'avoir accès aux figures directement sur `Github`.
 
 - `ind_bretagne_agglo.csv`
 

@@ -8,14 +8,14 @@
 
 #### Présentation des différents documents
 
-- analyse.py
+- `analyse.py`
 
 Ce fichier python contient le dataframe principal, avec toutes les étapes de traitement des données en vue de les présenter.
 
-- rapport.ipynb
+- `rapport.ipynb`
 
 Ce Notebook constitue le rapport après analyse des différentes données et graphiques constitués.
 
-- ind_bretagne_agglo.csv
+- `ind_bretagne_agglo.csv`
 
 Ce fichier csv contient toutes les données qui ont été exploitées lors de cette étude.
